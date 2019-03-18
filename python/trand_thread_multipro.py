@@ -68,6 +68,6 @@ def sync_fib():
         
 sync_fib()
 
-thread_scrap()
+threading_fib()
 print('-' * 50)
-processing_scrap()
+processing_fib()
